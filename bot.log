@@ -1,0 +1,444 @@
+2026-11-14 16:43:41,809 | WARNING  | bot | ADMIN_IDS пуст: добавьте администратора в config.py или переменную ADMIN_IDS.
+2026-11-14 16:43:42,262 | INFO     | bot | База данных готова: studio.db
+2026-11-14 16:43:42,937 | INFO     | bot | Запущен бот @askhabasebot
+2026-11-14 16:43:42,941 | INFO     | aiogram.dispatcher | Start polling
+2026-11-14 16:43:43,043 | INFO     | aiogram.dispatcher | Run polling for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-14 16:43:45,133 | INFO     | aiogram.event | Update id=62488066 is handled. Duration 391 ms by bot id=8761103820
+2026-11-14 16:43:47,681 | INFO     | aiogram.event | Update id=62488067 is handled. Duration 202 ms by bot id=8761103820
+2026-11-14 16:43:50,681 | INFO     | aiogram.event | Update id=62488068 is handled. Duration 328 ms by bot id=8761103820
+2026-11-14 16:43:55,762 | INFO     | aiogram.event | Update id=62488069 is handled. Duration 218 ms by bot id=8761103820
+2026-11-14 16:43:59,719 | INFO     | aiogram.event | Update id=62488070 is handled. Duration 187 ms by bot id=8761103820
+2026-11-14 16:44:04,413 | INFO     | aiogram.event | Update id=62488071 is handled. Duration 202 ms by bot id=8761103820
+2026-11-14 16:44:07,047 | INFO     | aiogram.event | Update id=62488072 is handled. Duration 188 ms by bot id=8761103820
+2026-11-14 16:44:09,316 | INFO     | aiogram.event | Update id=62488073 is handled. Duration 186 ms by bot id=8761103820
+2026-11-14 16:44:12,912 | INFO     | aiogram.event | Update id=62488074 is handled. Duration 233 ms by bot id=8761103820
+2026-11-14 16:44:16,200 | INFO     | aiogram.event | Update id=62488075 is handled. Duration 625 ms by bot id=8761103820
+2026-11-14 16:44:17,797 | INFO     | aiogram.event | Update id=62488076 is handled. Duration 266 ms by bot id=8761103820
+2026-11-14 16:44:19,687 | INFO     | aiogram.event | Update id=62488077 is handled. Duration 171 ms by bot id=8761103820
+2026-11-14 16:50:56,399 | INFO     | aiogram.dispatcher | Polling stopped
+2026-11-14 16:50:56,451 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-11-14 16:50:56,451 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8761103820)
+2026-11-14 16:50:56,727 | INFO     | aiogram.dispatcher | Polling stopped for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-14 16:50:56,734 | INFO     | bot | Бот остановлен.
+2026-11-14 16:51:09,730 | INFO     | bot | База данных готова: studio.db
+2026-11-14 16:51:10,171 | INFO     | bot | Запущен бот @askhabasebot
+2026-11-14 16:51:10,171 | INFO     | aiogram.dispatcher | Start polling
+2026-11-14 16:51:10,308 | INFO     | aiogram.dispatcher | Run polling for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-14 16:51:17,450 | INFO     | aiogram.event | Update id=62488078 is handled. Duration 484 ms by bot id=8761103820
+2026-11-14 16:51:19,221 | INFO     | aiogram.event | Update id=62488079 is handled. Duration 437 ms by bot id=8761103820
+2026-11-14 16:51:20,551 | INFO     | aiogram.event | Update id=62488080 is handled. Duration 469 ms by bot id=8761103820
+2026-11-14 16:51:21,939 | INFO     | aiogram.event | Update id=62488081 is handled. Duration 405 ms by bot id=8761103820
+2026-11-14 16:51:23,109 | INFO     | aiogram.event | Update id=62488082 is handled. Duration 405 ms by bot id=8761103820
+2026-11-14 16:51:26,280 | INFO     | aiogram.event | Update id=62488083 is handled. Duration 483 ms by bot id=8761103820
+2026-11-14 16:51:28,130 | INFO     | aiogram.event | Update id=62488084 is handled. Duration 422 ms by bot id=8761103820
+2026-11-14 16:51:29,335 | INFO     | aiogram.event | Update id=62488085 is handled. Duration 452 ms by bot id=8761103820
+2026-11-14 19:37:22,269 | INFO     | bot | База данных готова: studio.db
+2026-11-14 19:37:22,733 | INFO     | bot | Запущен бот @askhabasebot
+2026-11-14 19:37:22,733 | INFO     | aiogram.dispatcher | Start polling
+2026-11-14 19:37:22,820 | INFO     | aiogram.dispatcher | Run polling for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-14 19:37:23,396 | INFO     | aiogram.event | Update id=62488089 is handled. Duration 453 ms by bot id=8761103820
+2026-11-14 19:37:23,424 | INFO     | aiogram.event | Update id=62488087 is handled. Duration 485 ms by bot id=8761103820
+2026-11-14 19:37:23,447 | INFO     | aiogram.event | Update id=62488086 is handled. Duration 516 ms by bot id=8761103820
+2026-11-14 19:37:23,492 | INFO     | aiogram.event | Update id=62488088 is handled. Duration 547 ms by bot id=8761103820
+2026-11-14 19:37:30,121 | INFO     | aiogram.event | Update id=62488090 is handled. Duration 327 ms by bot id=8761103820
+2026-11-14 19:37:31,508 | INFO     | aiogram.event | Update id=62488091 is handled. Duration 281 ms by bot id=8761103820
+2026-11-14 19:37:34,342 | INFO     | aiogram.event | Update id=62488092 is handled. Duration 327 ms by bot id=8761103820
+2026-11-14 19:37:35,428 | INFO     | aiogram.event | Update id=62488093 is handled. Duration 328 ms by bot id=8761103820
+2026-11-14 19:37:36,388 | INFO     | aiogram.event | Update id=62488094 is handled. Duration 312 ms by bot id=8761103820
+2026-11-14 19:37:37,742 | INFO     | aiogram.event | Update id=62488095 is handled. Duration 280 ms by bot id=8761103820
+2026-11-14 19:37:38,885 | INFO     | aiogram.event | Update id=62488096 is handled. Duration 312 ms by bot id=8761103820
+2026-11-14 19:37:40,494 | INFO     | aiogram.event | Update id=62488097 is handled. Duration 313 ms by bot id=8761103820
+2026-11-14 19:37:41,694 | INFO     | aiogram.event | Update id=62488098 is handled. Duration 343 ms by bot id=8761103820
+2026-11-14 19:37:43,038 | INFO     | aiogram.event | Update id=62488099 is handled. Duration 327 ms by bot id=8761103820
+2026-11-14 19:37:44,090 | INFO     | aiogram.event | Update id=62488100 is handled. Duration 359 ms by bot id=8761103820
+2026-11-14 19:37:45,046 | INFO     | aiogram.event | Update id=62488101 is handled. Duration 313 ms by bot id=8761103820
+2026-11-14 19:37:46,490 | INFO     | aiogram.event | Update id=62488102 is handled. Duration 655 ms by bot id=8761103820
+2026-11-14 19:37:47,822 | INFO     | aiogram.event | Update id=62488103 is handled. Duration 250 ms by bot id=8761103820
+2026-11-14 19:37:49,041 | INFO     | aiogram.event | Update id=62488104 is handled. Duration 406 ms by bot id=8761103820
+2026-11-14 19:37:50,284 | INFO     | aiogram.event | Update id=62488105 is handled. Duration 547 ms by bot id=8761103820
+2026-11-14 19:43:07,260 | INFO     | aiogram.event | Update id=62488106 is handled. Duration 375 ms by bot id=8761103820
+2026-11-14 19:43:08,431 | INFO     | aiogram.event | Update id=62488107 is handled. Duration 313 ms by bot id=8761103820
+2026-11-14 19:43:11,153 | INFO     | aiogram.event | Update id=62488108 is handled. Duration 358 ms by bot id=8761103820
+2026-11-14 19:43:12,238 | INFO     | aiogram.event | Update id=62488109 is handled. Duration 343 ms by bot id=8761103820
+2026-11-14 19:43:40,045 | INFO     | aiogram.event | Update id=62488110 is handled. Duration 453 ms by bot id=8761103820
+2026-11-14 19:43:43,897 | INFO     | aiogram.dispatcher | Polling stopped
+2026-11-14 19:43:43,920 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-11-14 19:43:43,920 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8761103820)
+2026-11-14 19:43:44,188 | INFO     | aiogram.dispatcher | Polling stopped for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-14 19:43:44,197 | INFO     | bot | Бот остановлен.
+2026-11-14 19:43:53,796 | INFO     | bot | База данных готова: studio.db
+2026-11-14 19:43:54,141 | INFO     | bot | Запущен бот @askhabasebot
+2026-11-14 19:43:54,142 | INFO     | aiogram.dispatcher | Start polling
+2026-11-14 19:43:54,237 | INFO     | aiogram.dispatcher | Run polling for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-14 19:43:55,817 | INFO     | aiogram.event | Update id=62488111 is handled. Duration 421 ms by bot id=8761103820
+2026-11-14 19:43:57,058 | INFO     | aiogram.event | Update id=62488112 is handled. Duration 358 ms by bot id=8761103820
+2026-11-14 19:44:01,855 | INFO     | aiogram.event | Update id=62488113 is handled. Duration 327 ms by bot id=8761103820
+2026-11-14 19:44:04,530 | INFO     | aiogram.event | Update id=62488114 is handled. Duration 390 ms by bot id=8761103820
+2026-11-14 19:44:06,301 | INFO     | aiogram.event | Update id=62488115 is handled. Duration 360 ms by bot id=8761103820
+2026-11-14 19:44:12,154 | INFO     | aiogram.event | Update id=62488116 is handled. Duration 469 ms by bot id=8761103820
+2026-11-14 19:44:14,609 | INFO     | aiogram.event | Update id=62488117 is handled. Duration 265 ms by bot id=8761103820
+2026-11-14 19:44:18,459 | INFO     | aiogram.event | Update id=62488118 is handled. Duration 234 ms by bot id=8761103820
+2026-11-14 19:44:20,266 | INFO     | aiogram.event | Update id=62488119 is handled. Duration 328 ms by bot id=8761103820
+2026-11-14 19:44:22,874 | INFO     | aiogram.event | Update id=62488120 is handled. Duration 297 ms by bot id=8761103820
+2026-11-14 19:44:24,334 | INFO     | aiogram.event | Update id=62488121 is handled. Duration 327 ms by bot id=8761103820
+2026-11-14 19:44:28,908 | INFO     | aiogram.event | Update id=62488122 is not handled. Duration 108 ms by bot id=8761103820
+2026-11-14 19:44:28,908 | ERROR    | aiogram.event | Cause exception while process update id=62488122 by bot id=8761103820
+AttributeError: 'Message' object has no attribute 'html_caption'
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 321, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Downloads\Новая папка (19)\bot.py", line 705, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 200, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Downloads\Новая папка (19)\bot.py", line 2277, in admin_input
+    result = await handler(message, state, data)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Downloads\Новая папка (19)\bot.py", line 1342, in act_text
+    html_text = message.html_text if message.text else (message.html_caption or "")
+                                                        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydantic\main.py", line 1042, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'html_caption'
+2026-11-14 19:44:37,291 | INFO     | aiogram.event | Update id=62488123 is handled. Duration 750 ms by bot id=8761103820
+2026-11-14 19:44:40,083 | INFO     | aiogram.event | Update id=62488124 is handled. Duration 172 ms by bot id=8761103820
+2026-11-14 19:44:42,226 | INFO     | aiogram.event | Update id=62488125 is not handled. Duration 15 ms by bot id=8761103820
+2026-11-14 19:44:43,689 | INFO     | aiogram.event | Update id=62488126 is handled. Duration 280 ms by bot id=8761103820
+2026-11-14 19:44:49,970 | INFO     | aiogram.event | Update id=62488127 is handled. Duration 452 ms by bot id=8761103820
+2026-11-14 19:44:51,857 | INFO     | aiogram.event | Update id=62488128 is handled. Duration 250 ms by bot id=8761103820
+2026-11-14 19:44:54,951 | INFO     | aiogram.event | Update id=62488129 is handled. Duration 327 ms by bot id=8761103820
+2026-11-14 19:44:59,055 | INFO     | aiogram.event | Update id=62488130 is handled. Duration 297 ms by bot id=8761103820
+2026-11-14 19:45:03,151 | INFO     | aiogram.event | Update id=62488131 is handled. Duration 327 ms by bot id=8761103820
+2026-11-14 19:45:09,733 | INFO     | aiogram.event | Update id=62488132 is handled. Duration 436 ms by bot id=8761103820
+2026-11-14 19:45:13,362 | INFO     | aiogram.event | Update id=62488133 is handled. Duration 327 ms by bot id=8761103820
+2026-11-14 19:45:22,085 | INFO     | aiogram.event | Update id=62488134 is handled. Duration 266 ms by bot id=8761103820
+2026-11-14 19:45:26,229 | INFO     | aiogram.event | Update id=62488135 is handled. Duration 343 ms by bot id=8761103820
+2026-11-14 19:45:28,218 | INFO     | aiogram.event | Update id=62488136 is handled. Duration 359 ms by bot id=8761103820
+2026-11-14 19:45:29,889 | INFO     | aiogram.event | Update id=62488137 is handled. Duration 328 ms by bot id=8761103820
+2026-11-14 19:45:31,368 | INFO     | aiogram.event | Update id=62488138 is handled. Duration 280 ms by bot id=8761103820
+2026-11-14 19:45:33,770 | WARNING  | bot | Не удалось уведомить админа 123456789: Telegram server says - Bad Request: chat not found
+2026-11-14 19:45:33,971 | INFO     | aiogram.event | Update id=62488139 is handled. Duration 827 ms by bot id=8761103820
+2026-11-14 19:45:39,868 | INFO     | aiogram.event | Update id=62488140 is handled. Duration 265 ms by bot id=8761103820
+2026-11-15 09:14:01,105 | INFO     | bot | База данных готова: studio.db
+2026-11-15 09:14:01,486 | INFO     | bot | Запущен бот @askhabasebot
+2026-11-15 09:14:01,488 | INFO     | aiogram.dispatcher | Start polling
+2026-11-15 09:14:01,591 | INFO     | aiogram.dispatcher | Run polling for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-15 09:14:02,026 | INFO     | aiogram.event | Update id=62488143 is handled. Duration 327 ms by bot id=8761103820
+2026-11-15 09:14:02,057 | INFO     | aiogram.event | Update id=62488141 is handled. Duration 358 ms by bot id=8761103820
+2026-11-15 09:14:02,077 | INFO     | aiogram.event | Update id=62488142 is handled. Duration 375 ms by bot id=8761103820
+2026-11-15 09:14:08,882 | INFO     | aiogram.event | Update id=62488144 is handled. Duration 391 ms by bot id=8761103820
+2026-11-15 09:14:10,227 | INFO     | aiogram.event | Update id=62488145 is handled. Duration 546 ms by bot id=8761103820
+2026-11-15 09:14:13,091 | INFO     | aiogram.event | Update id=62488146 is handled. Duration 265 ms by bot id=8761103820
+2026-11-15 09:14:14,612 | INFO     | aiogram.event | Update id=62488147 is handled. Duration 265 ms by bot id=8761103820
+2026-11-15 09:14:16,854 | INFO     | aiogram.event | Update id=62488148 is handled. Duration 358 ms by bot id=8761103820
+2026-11-15 09:14:18,441 | INFO     | aiogram.event | Update id=62488149 is handled. Duration 405 ms by bot id=8761103820
+2026-11-15 09:14:21,725 | INFO     | aiogram.event | Update id=62488150 is handled. Duration 296 ms by bot id=8761103820
+2026-11-15 09:14:24,988 | INFO     | aiogram.event | Update id=62488151 is handled. Duration 390 ms by bot id=8761103820
+2026-11-15 09:14:34,331 | INFO     | aiogram.event | Update id=62488152 is handled. Duration 312 ms by bot id=8761103820
+2026-11-15 09:14:37,025 | INFO     | aiogram.event | Update id=62488153 is handled. Duration 281 ms by bot id=8761103820
+2026-11-15 09:14:52,776 | INFO     | aiogram.event | Update id=62488154 is handled. Duration 405 ms by bot id=8761103820
+2026-11-15 09:14:55,443 | INFO     | aiogram.event | Update id=62488155 is handled. Duration 296 ms by bot id=8761103820
+2026-11-15 09:14:58,153 | INFO     | aiogram.event | Update id=62488156 is handled. Duration 297 ms by bot id=8761103820
+2026-11-15 09:15:03,632 | INFO     | aiogram.event | Update id=62488157 is handled. Duration 234 ms by bot id=8761103820
+2026-11-15 09:15:05,224 | INFO     | aiogram.event | Update id=62488158 is handled. Duration 327 ms by bot id=8761103820
+2026-11-15 09:15:06,361 | INFO     | aiogram.event | Update id=62488159 is handled. Duration 327 ms by bot id=8761103820
+2026-11-15 09:15:07,574 | INFO     | aiogram.event | Update id=62488160 is handled. Duration 297 ms by bot id=8761103820
+2026-11-15 09:15:08,724 | INFO     | aiogram.event | Update id=62488161 is handled. Duration 437 ms by bot id=8761103820
+2026-11-15 09:15:10,291 | INFO     | aiogram.event | Update id=62488162 is handled. Duration 360 ms by bot id=8761103820
+2026-11-15 09:15:11,481 | INFO     | aiogram.event | Update id=62488163 is handled. Duration 452 ms by bot id=8761103820
+2026-11-15 09:15:12,506 | INFO     | aiogram.event | Update id=62488164 is handled. Duration 359 ms by bot id=8761103820
+2026-11-15 09:15:13,837 | INFO     | aiogram.event | Update id=62488165 is handled. Duration 391 ms by bot id=8761103820
+2026-11-15 09:15:14,862 | INFO     | aiogram.event | Update id=62488166 is handled. Duration 311 ms by bot id=8761103820
+2026-11-15 09:15:16,945 | WARNING  | bot | Не удалось уведомить админа 123456789: Telegram server says - Bad Request: chat not found
+2026-11-15 09:15:17,114 | INFO     | aiogram.event | Update id=62488167 is handled. Duration 875 ms by bot id=8761103820
+2026-11-15 09:15:21,815 | INFO     | aiogram.event | Update id=62488168 is handled. Duration 389 ms by bot id=8761103820
+2026-11-15 09:26:50,151 | INFO     | aiogram.dispatcher | Polling stopped
+2026-11-15 09:26:50,191 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-11-15 09:26:50,192 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8761103820)
+2026-11-15 09:26:50,459 | INFO     | aiogram.dispatcher | Polling stopped for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-15 09:26:50,464 | INFO     | bot | Бот остановлен.
+2026-11-15 09:27:01,002 | INFO     | bot | База данных готова: studio.db
+2026-11-15 09:27:01,532 | INFO     | bot | Запущен бот @askhabasebot
+2026-11-15 09:27:01,532 | INFO     | aiogram.dispatcher | Start polling
+2026-11-15 09:27:01,706 | INFO     | aiogram.dispatcher | Run polling for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-15 09:27:14,241 | INFO     | aiogram.event | Update id=62488169 is handled. Duration 577 ms by bot id=8761103820
+2026-11-15 09:27:23,078 | INFO     | aiogram.event | Update id=62488170 is handled. Duration 344 ms by bot id=8761103820
+2026-11-15 09:27:33,385 | INFO     | aiogram.event | Update id=62488171 is handled. Duration 422 ms by bot id=8761103820
+2026-11-15 09:27:35,224 | INFO     | aiogram.event | Update id=62488172 is handled. Duration 812 ms by bot id=8761103820
+2026-11-15 09:27:37,206 | INFO     | aiogram.event | Update id=62488173 is handled. Duration 280 ms by bot id=8761103820
+2026-11-15 09:27:38,722 | INFO     | aiogram.event | Update id=62488174 is handled. Duration 343 ms by bot id=8761103820
+2026-11-15 09:27:40,446 | INFO     | aiogram.event | Update id=62488175 is handled. Duration 452 ms by bot id=8761103820
+2026-11-15 09:27:44,354 | INFO     | aiogram.event | Update id=62488176 is handled. Duration 327 ms by bot id=8761103820
+2026-11-15 09:27:55,019 | INFO     | aiogram.event | Update id=62488177 is handled. Duration 375 ms by bot id=8761103820
+2026-11-15 09:28:01,343 | INFO     | aiogram.event | Update id=62488178 is handled. Duration 859 ms by bot id=8761103820
+2026-11-15 09:28:04,367 | INFO     | aiogram.event | Update id=62488179 is handled. Duration 327 ms by bot id=8761103820
+2026-11-15 09:28:07,214 | INFO     | aiogram.event | Update id=62488180 is not handled. Duration 171 ms by bot id=8761103820
+2026-11-15 09:28:07,214 | ERROR    | aiogram.event | Cause exception while process update id=62488180 by bot id=8761103820
+ValidationError: 1 validation error for CallbackQuery
+data
+  Instance is frozen [type=frozen_instance, input_value='adm:btn:menu_order', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/frozen_instance
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 321, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Downloads\Новая папка (19)\bot.py", line 768, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 200, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\Downloads\Новая папка (19)\bot.py", line 2160, in adm_btn_style
+    call.data = f"adm:btn:{key}"
+    ^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydantic\main.py", line 1048, in __setattr__
+    elif (setattr_handler := self._setattr_handler(name, value)) is not None:
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydantic\main.py", line 1084, in _setattr_handler
+    _check_frozen(cls, name, value)
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydantic\main.py", line 90, in _check_frozen
+    raise ValidationError.from_exception_data(
+pydantic_core._pydantic_core.ValidationError: 1 validation error for CallbackQuery
+data
+  Instance is frozen [type=frozen_instance, input_value='adm:btn:menu_order', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/frozen_instance
+2026-11-15 09:28:08,510 | INFO     | aiogram.event | Update id=62488181 is handled. Duration 281 ms by bot id=8761103820
+2026-11-15 09:28:18,308 | INFO     | aiogram.event | Update id=62488182 is handled. Duration 452 ms by bot id=8761103820
+2026-11-15 09:28:21,121 | INFO     | aiogram.event | Update id=62488183 is handled. Duration 313 ms by bot id=8761103820
+2026-11-15 09:28:26,466 | INFO     | aiogram.event | Update id=62488184 is handled. Duration 327 ms by bot id=8761103820
+2026-11-15 09:28:29,331 | INFO     | aiogram.event | Update id=62488185 is handled. Duration 359 ms by bot id=8761103820
+2026-11-15 09:28:45,155 | INFO     | aiogram.event | Update id=62488186 is handled. Duration 344 ms by bot id=8761103820
+2026-11-15 09:28:47,871 | INFO     | aiogram.event | Update id=62488187 is handled. Duration 406 ms by bot id=8761103820
+2026-11-15 09:29:10,103 | INFO     | aiogram.event | Update id=62488188 is handled. Duration 500 ms by bot id=8761103820
+2026-11-15 09:29:12,442 | INFO     | aiogram.event | Update id=62488189 is handled. Duration 468 ms by bot id=8761103820
+2026-11-15 09:29:13,812 | INFO     | aiogram.event | Update id=62488190 is handled. Duration 389 ms by bot id=8761103820
+2026-11-15 09:29:21,682 | INFO     | aiogram.event | Update id=62488191 is handled. Duration 327 ms by bot id=8761103820
+2026-11-15 09:29:30,726 | INFO     | aiogram.event | Update id=62488192 is handled. Duration 375 ms by bot id=8761103820
+2026-11-15 09:29:35,948 | INFO     | aiogram.event | Update id=62488193 is handled. Duration 375 ms by bot id=8761103820
+2026-11-15 09:29:39,955 | INFO     | aiogram.event | Update id=62488194 is handled. Duration 437 ms by bot id=8761103820
+2026-11-15 09:29:43,866 | INFO     | aiogram.event | Update id=62488195 is handled. Duration 390 ms by bot id=8761103820
+2026-11-15 09:29:48,078 | INFO     | aiogram.event | Update id=62488196 is handled. Duration 375 ms by bot id=8761103820
+2026-11-15 09:29:54,667 | WARNING  | bot | Не удалось отправить админу 123456789: Telegram server says - Bad Request: chat not found
+2026-11-15 09:29:54,807 | INFO     | aiogram.event | Update id=62488197 is handled. Duration 827 ms by bot id=8761103820
+2026-11-15 09:29:58,893 | INFO     | aiogram.event | Update id=62488198 is handled. Duration 515 ms by bot id=8761103820
+2026-11-15 09:30:04,274 | INFO     | aiogram.event | Update id=62488199 is handled. Duration 328 ms by bot id=8761103820
+2026-11-15 09:30:13,534 | INFO     | aiogram.event | Update id=62488200 is handled. Duration 594 ms by bot id=8761103820
+2026-11-15 09:30:22,367 | INFO     | aiogram.event | Update id=62488201 is handled. Duration 515 ms by bot id=8761103820
+2026-11-15 09:30:24,912 | INFO     | aiogram.event | Update id=62488202 is handled. Duration 344 ms by bot id=8761103820
+2026-11-15 09:30:26,192 | INFO     | aiogram.event | Update id=62488203 is handled. Duration 311 ms by bot id=8761103820
+2026-11-15 09:30:28,405 | WARNING  | bot | Не удалось отправить админу 123456789: Telegram server says - Bad Request: chat not found
+2026-11-15 09:30:28,588 | INFO     | aiogram.event | Update id=62488204 is handled. Duration 718 ms by bot id=8761103820
+2026-11-15 09:30:34,912 | INFO     | aiogram.event | Update id=62488205 is handled. Duration 375 ms by bot id=8761103820
+2026-11-15 09:30:36,516 | INFO     | aiogram.event | Update id=62488206 is handled. Duration 484 ms by bot id=8761103820
+2026-11-15 09:30:37,622 | INFO     | aiogram.event | Update id=62488207 is handled. Duration 375 ms by bot id=8761103820
+2026-11-15 09:30:38,855 | INFO     | aiogram.event | Update id=62488208 is handled. Duration 483 ms by bot id=8761103820
+2026-11-15 09:30:40,768 | WARNING  | bot | Не удалось отправить админу 123456789: Telegram server says - Bad Request: chat not found
+2026-11-15 09:30:40,942 | INFO     | aiogram.event | Update id=62488209 is handled. Duration 750 ms by bot id=8761103820
+2026-11-15 09:30:46,917 | INFO     | aiogram.event | Update id=62488210 is handled. Duration 360 ms by bot id=8761103820
+2026-11-15 09:30:48,845 | INFO     | aiogram.event | Update id=62488211 is handled. Duration 296 ms by bot id=8761103820
+2026-11-15 09:31:05,869 | INFO     | aiogram.event | Update id=62488212 is handled. Duration 359 ms by bot id=8761103820
+2026-11-15 09:31:08,024 | INFO     | aiogram.event | Update id=62488213 is handled. Duration 343 ms by bot id=8761103820
+2026-11-15 09:33:19,321 | INFO     | aiogram.dispatcher | Polling stopped
+2026-11-15 09:33:19,353 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-11-15 09:33:19,353 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8761103820)
+2026-11-15 09:33:19,627 | INFO     | aiogram.dispatcher | Polling stopped for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-15 09:33:19,636 | INFO     | bot | Бот остановлен.
+2026-11-15 09:33:40,331 | INFO     | bot | База данных готова: studio.db
+2026-11-15 09:33:40,809 | INFO     | bot | Запущен бот @askhabasebot
+2026-11-15 09:33:40,811 | INFO     | aiogram.dispatcher | Start polling
+2026-11-15 09:33:40,997 | INFO     | aiogram.dispatcher | Run polling for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-15 09:34:11,871 | INFO     | aiogram.event | Update id=62488214 is handled. Duration 625 ms by bot id=8761103820
+2026-11-15 09:34:18,386 | INFO     | aiogram.event | Update id=62488215 is handled. Duration 437 ms by bot id=8761103820
+2026-11-15 09:34:19,397 | INFO     | aiogram.event | Update id=62488216 is handled. Duration 359 ms by bot id=8761103820
+2026-11-15 09:34:20,578 | INFO     | aiogram.event | Update id=62488217 is handled. Duration 359 ms by bot id=8761103820
+2026-11-15 09:34:21,590 | INFO     | aiogram.event | Update id=62488218 is handled. Duration 390 ms by bot id=8761103820
+2026-11-15 09:34:22,894 | INFO     | aiogram.event | Update id=62488219 is handled. Duration 422 ms by bot id=8761103820
+2026-11-15 09:34:24,220 | WARNING  | bot | Не удалось отправить админу 123456789: Telegram server says - Bad Request: chat not found
+2026-11-15 09:34:24,376 | INFO     | aiogram.event | Update id=62488220 is handled. Duration 875 ms by bot id=8761103820
+2026-11-15 09:34:27,439 | INFO     | aiogram.event | Update id=62488221 is handled. Duration 468 ms by bot id=8761103820
+2026-11-15 09:34:34,741 | WARNING  | bot | Не удалось отправить админу 123456789: Telegram server says - Bad Request: message to forward not found
+2026-11-15 09:34:34,859 | WARNING  | bot | Не удалось отправить админу 6358456805: Telegram server says - Bad Request: message to forward not found
+2026-11-15 09:34:35,037 | INFO     | aiogram.event | Update id=62488222 is handled. Duration 687 ms by bot id=8761103820
+2026-11-15 09:34:40,843 | INFO     | aiogram.event | Update id=62488223 is handled. Duration 343 ms by bot id=8761103820
+2026-11-15 09:36:37,398 | INFO     | aiogram.dispatcher | Polling stopped
+2026-11-15 09:36:37,406 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-11-15 09:36:37,406 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8761103820)
+2026-11-15 09:36:37,665 | INFO     | aiogram.dispatcher | Polling stopped for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-15 09:36:37,672 | INFO     | bot | Бот остановлен.
+2026-11-15 09:36:49,563 | INFO     | bot | База данных готова: studio.db
+2026-11-15 09:36:49,942 | INFO     | bot | Запущен бот @askhabasebot
+2026-11-15 09:36:49,942 | INFO     | aiogram.dispatcher | Start polling
+2026-11-15 09:36:50,042 | INFO     | aiogram.dispatcher | Run polling for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-15 09:36:53,987 | INFO     | aiogram.event | Update id=62488224 is handled. Duration 515 ms by bot id=8761103820
+2026-11-15 09:36:55,312 | INFO     | aiogram.event | Update id=62488225 is handled. Duration 358 ms by bot id=8761103820
+2026-11-15 09:36:57,226 | INFO     | aiogram.event | Update id=62488226 is handled. Duration 515 ms by bot id=8761103820
+2026-11-15 09:36:58,536 | INFO     | aiogram.event | Update id=62488227 is handled. Duration 452 ms by bot id=8761103820
+2026-11-15 09:36:59,959 | INFO     | aiogram.event | Update id=62488228 is handled. Duration 391 ms by bot id=8761103820
+2026-11-15 09:37:01,119 | INFO     | aiogram.event | Update id=62488229 is handled. Duration 452 ms by bot id=8761103820
+2026-11-15 09:37:03,400 | WARNING  | bot | Не удалось отправить админу 123456789: Telegram server says - Bad Request: chat not found
+2026-11-15 09:37:03,534 | INFO     | aiogram.event | Update id=62488230 is handled. Duration 1062 ms by bot id=8761103820
+2026-11-15 09:37:08,938 | INFO     | aiogram.event | Update id=62488231 is not handled. Duration 46 ms by bot id=8761103820
+2026-11-15 09:38:25,196 | INFO     | aiogram.dispatcher | Polling stopped
+2026-11-15 09:38:25,216 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-11-15 09:38:25,216 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8761103820)
+2026-11-15 09:38:25,476 | INFO     | aiogram.dispatcher | Polling stopped for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-15 09:38:25,482 | INFO     | bot | Бот остановлен.
+2026-11-15 09:38:35,443 | INFO     | bot | База данных готова: studio.db
+2026-11-15 09:38:35,777 | INFO     | bot | Запущен бот @askhabasebot
+2026-11-15 09:38:35,777 | INFO     | aiogram.dispatcher | Start polling
+2026-11-15 09:38:35,895 | INFO     | aiogram.dispatcher | Run polling for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-15 09:39:14,795 | INFO     | aiogram.event | Update id=62488232 is handled. Duration 594 ms by bot id=8761103820
+2026-11-15 09:39:16,024 | INFO     | aiogram.event | Update id=62488233 is handled. Duration 375 ms by bot id=8761103820
+2026-11-15 09:39:17,243 | INFO     | aiogram.event | Update id=62488234 is handled. Duration 515 ms by bot id=8761103820
+2026-11-15 09:39:18,384 | INFO     | aiogram.event | Update id=62488235 is handled. Duration 375 ms by bot id=8761103820
+2026-11-15 09:39:22,705 | INFO     | aiogram.event | Update id=62488236 is handled. Duration 484 ms by bot id=8761103820
+2026-11-15 09:39:23,955 | INFO     | aiogram.event | Update id=62488237 is handled. Duration 484 ms by bot id=8761103820
+2026-11-15 09:39:25,473 | INFO     | aiogram.event | Update id=62488238 is handled. Duration 500 ms by bot id=8761103820
+2026-11-15 09:39:26,679 | INFO     | aiogram.event | Update id=62488239 is handled. Duration 453 ms by bot id=8761103820
+2026-11-15 09:39:27,978 | INFO     | aiogram.event | Update id=62488240 is handled. Duration 530 ms by bot id=8761103820
+2026-11-15 09:39:29,261 | INFO     | aiogram.event | Update id=62488241 is handled. Duration 515 ms by bot id=8761103820
+2026-11-15 09:39:34,283 | WARNING  | bot | Не удалось отправить админу 123456789: Telegram server says - Bad Request: chat not found
+2026-11-15 09:39:34,683 | INFO     | aiogram.event | Update id=62488242 is handled. Duration 889 ms by bot id=8761103820
+2026-11-15 09:39:47,092 | INFO     | aiogram.event | Update id=62488243 is handled. Duration 656 ms by bot id=8761103820
+2026-11-15 09:40:00,288 | INFO     | aiogram.event | Update id=62488244 is handled. Duration 452 ms by bot id=8761103820
+2026-11-15 09:40:03,242 | INFO     | aiogram.event | Update id=62488245 is handled. Duration 311 ms by bot id=8761103820
+2026-11-15 09:40:05,435 | INFO     | aiogram.event | Update id=62488246 is handled. Duration 327 ms by bot id=8761103820
+2026-11-15 09:40:07,970 | INFO     | aiogram.event | Update id=62488247 is handled. Duration 375 ms by bot id=8761103820
+2026-11-15 09:40:11,501 | INFO     | aiogram.event | Update id=62488248 is handled. Duration 359 ms by bot id=8761103820
+2026-11-15 09:40:13,679 | INFO     | aiogram.event | Update id=62488249 is handled. Duration 360 ms by bot id=8761103820
+2026-11-15 09:40:17,003 | INFO     | aiogram.event | Update id=62488250 is handled. Duration 422 ms by bot id=8761103820
+2026-11-15 09:40:21,219 | INFO     | aiogram.event | Update id=62488251 is handled. Duration 375 ms by bot id=8761103820
+2026-11-15 09:40:23,884 | INFO     | aiogram.event | Update id=62488252 is handled. Duration 359 ms by bot id=8761103820
+2026-11-15 09:40:25,938 | INFO     | aiogram.event | Update id=62488253 is handled. Duration 858 ms by bot id=8761103820
+2026-11-15 09:40:28,174 | INFO     | aiogram.event | Update id=62488254 is handled. Duration 969 ms by bot id=8761103820
+2026-11-15 09:40:29,888 | INFO     | aiogram.event | Update id=62488255 is handled. Duration 703 ms by bot id=8761103820
+2026-11-15 09:40:31,276 | INFO     | aiogram.event | Update id=62488256 is handled. Duration 344 ms by bot id=8761103820
+2026-11-15 09:40:33,368 | INFO     | aiogram.event | Update id=62488257 is handled. Duration 343 ms by bot id=8761103820
+2026-11-15 09:40:38,074 | INFO     | aiogram.event | Update id=62488258 is handled. Duration 562 ms by bot id=8761103820
+2026-11-15 09:40:40,034 | INFO     | aiogram.event | Update id=62488259 is handled. Duration 390 ms by bot id=8761103820
+2026-11-15 09:40:43,962 | INFO     | aiogram.event | Update id=62488260 is handled. Duration 766 ms by bot id=8761103820
+2026-11-15 09:40:45,465 | INFO     | aiogram.event | Update id=62488261 is handled. Duration 531 ms by bot id=8761103820
+2026-11-15 09:40:47,986 | INFO     | aiogram.event | Update id=62488262 is handled. Duration 375 ms by bot id=8761103820
+2026-11-15 09:40:53,136 | INFO     | aiogram.event | Update id=62488263 is handled. Duration 328 ms by bot id=8761103820
+2026-11-15 09:40:54,888 | INFO     | aiogram.event | Update id=62488264 is handled. Duration 437 ms by bot id=8761103820
+2026-11-15 09:40:56,433 | INFO     | aiogram.event | Update id=62488265 is handled. Duration 733 ms by bot id=8761103820
+2026-11-15 09:40:58,638 | INFO     | aiogram.event | Update id=62488266 is handled. Duration 343 ms by bot id=8761103820
+2026-11-15 09:41:00,597 | INFO     | aiogram.event | Update id=62488267 is handled. Duration 359 ms by bot id=8761103820
+2026-11-15 09:41:06,692 | INFO     | aiogram.event | Update id=62488268 is handled. Duration 327 ms by bot id=8761103820
+2026-11-15 09:41:08,182 | INFO     | aiogram.event | Update id=62488269 is handled. Duration 405 ms by bot id=8761103820
+2026-11-15 09:42:45,176 | INFO     | aiogram.event | Update id=62488270 is not handled. Duration 63 ms by bot id=8761103820
+2026-11-15 09:43:03,859 | INFO     | aiogram.dispatcher | Polling stopped
+2026-11-15 09:43:03,908 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-11-15 09:43:03,908 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8761103820)
+2026-11-15 09:43:04,186 | INFO     | aiogram.dispatcher | Polling stopped for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-15 09:43:04,197 | INFO     | bot | Бот остановлен.
+2026-11-15 09:43:19,402 | INFO     | bot | База данных готова: studio.db
+2026-11-15 09:43:19,900 | INFO     | bot | Запущен бот @askhabasebot
+2026-11-15 09:43:19,904 | INFO     | aiogram.dispatcher | Start polling
+2026-11-15 09:43:19,998 | INFO     | aiogram.dispatcher | Run polling for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-15 09:43:20,859 | INFO     | aiogram.event | Update id=62488271 is handled. Duration 672 ms by bot id=8761103820
+2026-11-15 09:43:22,965 | INFO     | aiogram.event | Update id=62488272 is handled. Duration 625 ms by bot id=8761103820
+2026-11-15 09:43:25,603 | INFO     | aiogram.event | Update id=62488273 is handled. Duration 390 ms by bot id=8761103820
+2026-11-15 09:43:31,911 | INFO     | aiogram.event | Update id=62488274 is handled. Duration 327 ms by bot id=8761103820
+2026-11-15 09:43:33,586 | INFO     | aiogram.event | Update id=62488275 is handled. Duration 359 ms by bot id=8761103820
+2026-11-15 09:43:35,673 | INFO     | aiogram.event | Update id=62488276 is handled. Duration 594 ms by bot id=8761103820
+2026-11-15 09:43:38,060 | INFO     | aiogram.event | Update id=62488277 is handled. Duration 343 ms by bot id=8761103820
+2026-11-15 09:43:41,751 | INFO     | aiogram.event | Update id=62488278 is handled. Duration 327 ms by bot id=8761103820
+2026-11-15 09:43:45,303 | INFO     | aiogram.event | Update id=62488279 is handled. Duration 375 ms by bot id=8761103820
+2026-11-15 09:43:47,037 | INFO     | aiogram.event | Update id=62488280 is handled. Duration 422 ms by bot id=8761103820
+2026-11-15 09:49:27,529 | INFO     | aiogram.dispatcher | Polling stopped
+2026-11-15 09:49:27,576 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-11-15 09:49:27,576 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8761103820)
+2026-11-15 09:49:27,851 | INFO     | aiogram.dispatcher | Polling stopped for bot @askhabasebot id=8761103820 - 'askhabasebot'
+2026-11-15 09:49:27,856 | INFO     | bot | Бот остановлен.
+2026-11-15 09:49:57,222 | INFO     | bot | База данных готова: studio.db
+2026-11-15 09:49:57,827 | INFO     | bot | Запущен бот @askhabasebot
+2026-11-15 09:49:57,833 | INFO     | aiogram.dispatcher | Start polling
+2026-11-15 09:49:57,940 | INFO     | aiogram.dispatcher | Run polling for bot @askhabasebot id=8761103820 - 'askhabasebot'
